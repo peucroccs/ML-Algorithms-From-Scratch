@@ -34,7 +34,7 @@ Fits the linear regression model using the OLS method.
 
 - **X** (`numpy.ndarray`)  
   Feature matrix of shape `(n_samples, n_features)`  
-  ⚠️ The intercept term is **not** added automatically.
+  OBS: The intercept term is **not** added automatically.
 
 - **y** (`numpy.ndarray`)  
   Target vector of shape `(n_samples,)`
