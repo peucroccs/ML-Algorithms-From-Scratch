@@ -5,5 +5,5 @@ This project focuses on implementing Machine Learning algorithms without using e
 
 ## Algorithms Implemented
 
-### - OLS (Ordinary Least Squares)
+### - Linear Regression (Ordinary Least Squares method)
 
