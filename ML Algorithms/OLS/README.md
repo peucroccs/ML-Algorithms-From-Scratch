@@ -83,5 +83,4 @@ Prints a formatted summary of the regression results, including:
 ### Notes
 
 - This implementation prioritizes **clarity and learning** over performance.
-- No regularization or numerical stability techniques are applied.
 - Matrix inversion may fail if the design matrix is singular.
